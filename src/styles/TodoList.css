@@ -1,0 +1,15 @@
+/* TodoList.css */
+.todo-list {
+  list-style: none;
+  padding: 0;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.completed {
+  text-decoration: line-through;
+}

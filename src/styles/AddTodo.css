@@ -1,0 +1,19 @@
+/* AddTodo.css */
+.add-todo-form {
+  margin-top: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  flex: 1;
+  padding: 8px;
+}
+
+button {
+  background-color: #4caf50;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  cursor: pointer;
+}
